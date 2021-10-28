@@ -1,0 +1,14 @@
+# seb-task
+Written by Vilius Macijauskas
+
+Used: JAVA 11 & Angular 12
+
+Backend:
+1. For the program to run you need to run "mvn clean install" in the project directory (Might need to "Reload All Maven Projects" if running on Intellij).
+2. Run "SebproductsApplication" (src/main/java/com/sebtask/sebproducts/SebproductsApplication.java)
+
+Frontend:
+1. Use terminal to navigate to "sebproductsfront" directory from content root.
+2. Run "ng serve"
+
+The web application will be avalible after doing the before mentioned steps on "http://localhost:4200"
