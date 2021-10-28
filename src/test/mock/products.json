@@ -1,0 +1,9 @@
+[
+   {
+      "id": 1,
+      "name":"TEST1",
+      "ageRange":"SENIOR",
+      "student":true,
+      "income":"MORETHAN40K"
+   }
+]

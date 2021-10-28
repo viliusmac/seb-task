@@ -1,0 +1,10 @@
+<div class="outer-card">
+  <div class="card">
+    <h2>{{product?.name}} </h2>
+    <p>{{prepareAgeRange()}}</p>
+    <p>{{prepareIncome()}}</p>
+    <p *ngIf="product?.student">Student: Yes</p>
+  </div>
+  <button (click)="toggleChosenProduct()">Select</button>
+  <p *ngIf="chosenProduct">✅ this product was selected</p>
+</div>

@@ -1,0 +1,47 @@
+.checkbox {
+  display: block;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+select {
+  width: 200px;
+  height: 25px;
+}
+
+.label {
+  display: block;
+  text-align: center;
+  padding-top: 10px;
+}
+
+button {
+  background-color: #0092E1;
+  border: none;
+  color: white;
+  font-size: 16px;
+  padding: 10px 70px 10px 70px;
+}
+
+button:hover {
+  background-color: #0177af;
+}
+
+.warning {
+  color: red;
+  font-size: 11px;
+}
+
+.container {
+  font-family: "Poppins", sans-serif;
+  background-color: #fff;
+  max-width: 320px;
+  margin: 30px auto;
+  overflow: auto;
+  min-height: 300px;
+  border: 1px solid steelblue;
+  padding: 30px;
+  border-radius: 5px;
+  text-align: center;
+}
+

@@ -1,0 +1,58 @@
+[
+   {
+      "id": 0,
+      "name":"Current Account",
+      "ageRange":"ADULT",
+      "student":false,
+      "income":"MORETHANZERO"
+   },
+   {
+      "id": 1,
+      "name":"Current Account Plus",
+      "ageRange":"ADULT",
+      "student":false,
+      "income":"MORETHAN40K"
+   },
+   {
+      "id": 2,
+      "name":"Junior Saver Account",
+      "ageRange":"TEENAGER",
+      "student":false,
+      "income":"IRRELEVANT"
+   },
+   {
+      "id": 3,
+      "name":"Student Account",
+      "ageRange":"ADULT",
+      "student":true,
+      "income":"IRRELEVANT"
+   },
+   {
+      "id": 4,
+      "name":"Senior Account",
+      "ageRange":"SENIOR",
+      "student":false,
+      "income":"IRRELEVANT"
+   },
+   {
+      "id": 5,
+      "name":"Debit Card",
+      "ageRange":"ADULT",
+      "student":false,
+      "income":"LESSTHAN12K"
+   },
+   {
+      "id": 6,
+      "name":"Credit Card",
+      "ageRange":"ADULT",
+      "student":false,
+      "income":"MORETHAN12K"
+   },
+   {
+      "id": 7,
+      "name":"Gold Credit Card",
+      "ageRange":"ADULT",
+      "student":false,
+      "income":"MORETHAN40K"
+   }
+]
